@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {margin:auto; background-image:url(../img/bg.png); background-repeat:repeat;}
+a { text-decoration:none;}
+a img { border:none}
+.temizle { clear:both}
+
+#icerik { width:1024px; margin:auto;}
+
+#login-logo { background-image:url(../img/giris-logo.png); width:415px; height:157px; margin:auto}
+
+#baslik{width:777px; height:50px; margin:auto; font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#023d50; text-align:justify}
+#ust-perde{ background-image:url(../img/ust-perde.png); width:777px; height:67px; margin:auto; background-color:transparent}
+
+#select { background-image:url(../img/select-bg.png); width:705px; height:174px; margin:auto ; margin-top:31px}
+.sec { width:660px; height:100px; margin:auto}
+.select-box { width:205px; height:40px; margin-left:10px; padding:11px;}
+
+.sec p{ margin-left:10px; font-family:"Myriad Pro"; font-size:16px; color:#FFFFFF; padding:0px; margin-bottom:4px}
+
+
+
+.select-aciklama { width:580px; height:40px; margin:auto; font-family:"Myriad Pro"; font-size:12px; color:#FFFFFF }
+
+.golge { width:701px; height:32px;background-image:url(../img/golge.png);  margin:auto }
+
+#vitrin { width:706px; height:120px; margin:auto}
+
+#vitrin-left { width:349px; height:91px; background-image:url(../img/vitrin-left.png); margin:auto; float:left; margin-top:40px}
+#vitrin-left-baslik{ padding:12px; font-size:16px; color:#01455b; font-family:"Myriad Pro"; padding-bottom:0px; margin-bottom:0px}
+#vitrin-left p { padding:12px; margin:0px; font-size:12px; color:#01455b; font-family:"Myriad Pro"; padding-top:4px}
+
+
+
+#vitrin-right { width:350px; height:120px; float:right}
+
+
+.islem { background-image:url(../img/islem-bg.png); width:155px ; height:62px; font-size:12px; color:#767676; cursor:pointer}
+.islem p{ padding:8px; text-align:center}
+.islem:hover { background-image:url(../img/islem-hover.png);}
+
+
+.cook { background-image:url(../img/make-cook.png); width:156px ; height:49px;}
+.cook:hover { background-image:url(../img/cook-hover.png);}
+.go-vitrin { background-image:url(../img/go-vitrin.png); width:156px ; height:49px;}
+
+.go-vitrin:hover{ background-image:url(../img/go-hover.png); width:156px ; height:49px;}
+
+
+#cooks { background-image:url(../img/cooks.png); width:1024px ; height:92px; margin:auto}
+.footer {height:48px; background-color:#036582; margin:0px; padding:0px}
+#footer { background-image:url(../img/footer.png); width:1024px ;  margin:auto}
+
+#footer-left { width:400px; height:24px; float:left; padding:12px}
+#footer-right { width:400px; height:24x; float:right; padding:15px; font-size:11px; font-family:Arial, Helvetica, sans-serif; color:#CCCCCC}
+
+
+
+
+
+
